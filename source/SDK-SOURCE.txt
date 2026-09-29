@@ -1,0 +1,4 @@
+Official TeamSpeak 3 Client Plugin SDK headers
+https://github.com/teamspeak/ts3client-pluginsdk
+Repository tree: 4aa90a53aa150cbf81e13bc97e68c0431b26499f
+Retrieved 2026-09-29. Original header files are in sdk/.
